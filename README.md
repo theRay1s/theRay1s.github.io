@@ -1,4 +1,4 @@
-# This is Frontend of raysnetwork.cf
+# This is Frontend of [Ray Network](https://raysnetwork.cf)
 
 ## Take it the Legecy Way
 
