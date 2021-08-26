@@ -1,2 +1,2 @@
-## theRay1s.github.io
+## [theray.tech](https://theray.tech/)
 My Portfolio
